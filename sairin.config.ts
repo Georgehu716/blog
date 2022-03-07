@@ -8,7 +8,7 @@ export default {
   },
   theme: BlogTheme,
   themeConfig: {
-    title: `Sairin`,
+    title: `Georgehu's blog`,
     links: [
       {
         title: "GitHub",
